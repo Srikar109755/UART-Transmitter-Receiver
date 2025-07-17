@@ -39,7 +39,7 @@ A fully functional **UART Transmitter and Receiver** built in **SystemVerilog**,
 
 ### UART TX & RX Simulation Waveform
 
-![Waveform](https://your-domain.com/path-to/uart_waveform.png)
+![Waveform](https://github.com/Srikar109755/UART-Transmitter-Receiver/blob/main/Outputs/Waveform.png)
 
 📈 Signals:
 - `tx_serial`, `rx_serial` shows serial line data  
