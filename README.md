@@ -35,7 +35,7 @@ A fully functional **UART Transmitter and Receiver** built in **SystemVerilog**,
 
 ---
 
-## 🌀 Waveform (Simulation Screenshot)
+## 🌀 Waveform
 
 ### UART TX & RX Simulation Waveform
 
