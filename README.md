@@ -25,7 +25,7 @@ A fully functional **UART Transmitter and Receiver** built in **SystemVerilog**,
 
 ### UART Architecture Block Diagram
 
-![UART Block Diagram](https://your-domain.com/path-to/uart_block_diagram.png)
+![UART Block Diagram](https://github.com/Srikar109755/UART-Transmitter-Receiver/blob/main/Images/Block_Diagram.png)
 
 **Modules:**
 - `Baud_Gen.sv` – Generates timing ticks at given baud rate  
