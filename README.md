@@ -6,11 +6,11 @@ A fully functional **UART Transmitter and Receiver** built in **SystemVerilog**,
 - Receiver with Parity Checking
 - Self-checking Testbench
 
-> ⚙️ Simulated using Xilinx Vivado XSim (2024.2)
+> Simulated using Xilinx Vivado XSim (2024.2)
 
 ---
 
-## 📌 Features
+## Features
 
 - ✅ Configurable **Baud Rate** & Clock Frequency  
 - ✅ 8-bit data with **Even Parity** and 1 stop bit  
@@ -21,7 +21,7 @@ A fully functional **UART Transmitter and Receiver** built in **SystemVerilog**,
 
 ---
 
-## 🧠 System Architecture
+## System Architecture
 
 ### UART Architecture Block Diagram
 
@@ -35,20 +35,20 @@ A fully functional **UART Transmitter and Receiver** built in **SystemVerilog**,
 
 ---
 
-## 🌀 Waveform
+## Waveform
 
 ### UART TX & RX Simulation Waveform
 
 ![Waveform](https://github.com/Srikar109755/UART-Transmitter-Receiver/blob/main/Outputs/Waveform.png)
 
-📈 Signals:
+Signals:
 - `tx_serial`, `rx_serial` shows serial line data  
 - `baud_tick` controls transmission rate  
 - `data_valid`, `data_out_rx` confirms correctness
 
 ---
 
-## 🚀 How to Run the Simulation
+## How to Run the Simulation
 
 ### Vivado (Recommended)
 
